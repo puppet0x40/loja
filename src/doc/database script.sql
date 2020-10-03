@@ -1,0 +1,4 @@
+DROP SCHEMA IF EXISTS loja;
+CREATE SCHEMA loja;
+USE loja;
+
